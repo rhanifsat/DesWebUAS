@@ -159,3 +159,13 @@
 .featured-content p {
     margin: 20px;
 }
+
+.page-about {
+    text-align: center;
+    justify-content: center;
+}
+
+.akhlak {
+    text-align: left;
+    justify-content: left;
+}
