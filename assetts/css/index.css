@@ -18,6 +18,10 @@
     }
 }
 
+.featured-image {
+    padding: 10px;
+}
+
 .featured-item {
     display:block;
     position:relative;
@@ -62,8 +66,8 @@
 }
 
 .featured-item img {
-        width:100%;
-        height:auto
+    width:100%;
+    height:auto
 }
 
 .featured-item .featured-content {
