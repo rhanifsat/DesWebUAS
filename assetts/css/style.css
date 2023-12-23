@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -99,7 +103,7 @@
     display: flex;
     justify-content: center;
     list-style: none;
-    text-align: center;
+    text-align: left;
     background: rgba(0, 0, 0, 0.5);
 }
 
