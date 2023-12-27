@@ -103,7 +103,7 @@ html {
     display: flex;
     justify-content: center;
     list-style: none;
-    text-align: left;
+    text-align: center;
     background: rgba(0, 0, 0, 0.5);
 }
 
@@ -131,6 +131,8 @@ html {
 }
 
 .page-info h1 {
+    text-align: center;
+    justify-content: center;
     letter-spacing: 1px;
     font-size: 40px;
 }
